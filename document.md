@@ -4,7 +4,7 @@
 ### First step:
 
 Enter the IP address in the URL:  http://pems.keenable.io:3000/ 
-Then redirect on redmine login page.
+
 
 ![Local Image](1.login_page.png)
 
